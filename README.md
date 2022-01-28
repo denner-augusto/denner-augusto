@@ -14,7 +14,7 @@
 - [Python](#python)
 - [R](#r)
 - [Julia](#julia)
-- [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba)
+- [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba))
 - [Microsoft SQL Server](#sql)
 - [Git](#git)
 - [HTML](#html)
