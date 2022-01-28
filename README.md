@@ -11,14 +11,14 @@
 - 📫 How to reach me **denner.augustobarros@gmail.com / [Linkedin](https://linkedin.com/in/denneraugusto)**
 
 ### 🛠️ Some languages and tools I use: </b></summary>
-- Python
-- R 
-- Julia 
-- Visual Basic for Applications (VBA)
-- Microsoft SQL Server
-- Git
-- HTML
-- CSS
+- [Python](#python)
+- [R](#r)
+- [Julia](#julia)
+- [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba)
+- [Microsoft SQL Server](#sql)
+- [Git](#git)
+- [HTML](#html)
+- [CSS](#css)
 
 # 💻 Projects
 Here are all my data science projects available. I hope you enjoy!
