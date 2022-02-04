@@ -33,7 +33,7 @@ Comming soon...
 Comming soon...
 
 ### 📊 Data Analysis (Importing and Cleaning Data, Manipulation and Visualization)
-- [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars) 
+- [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) 
 <!-- / [repository](https://denner-augusto.github.io/Investigating-Netflix-Movies-and-Guest-Stars/)https://denner-augusto.github.io/Investigating-Netflix-Movies-and-Guest-Stars/ -->
 
 ### 🧠 Machine Learning
