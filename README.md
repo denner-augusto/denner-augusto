@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Denner Augusto</h1>
-<h3 align="center">A passionate data scientist student from São Paulo</h3>
+<h3 align="center">A passionate Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>
 
 
-- 🔭 I’m currently working on **"Investigating Netflix Movies and Guest Stars in the Office"**
+- 🔭 I’m currently working on Datacamp Certificates and Projects like **"Investigating Netflix Movies and Guest Stars in the Office"**\
+*(Check it out in the [Projects](#Projects) section!)*
 
 - 👯 I’m looking to collaborate on **projects of data science**
 
-- 💬 Ask me about **statistics, computacional modelling, data analysis**
+- 💬 Ask me about **Statistics, Computacional Modelling, Data Analysis or anything you want**\
+(I'll love to learn about it and help! =D)
 
 - 📫 How to reach me **denner.augustobarros@gmail.com / [Linkedin](https://linkedin.com/in/denneraugusto)**
 
@@ -21,7 +23,7 @@
 - [CSS](#css)
 
 # 💻 Projects
-Here are all my data science projects available. I hope you enjoy!
+Here are all my data science available projects. Hope you enjoy!
 
 ## Separated by subject
 ### 💲 Applied Finance
