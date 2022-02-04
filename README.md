@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Datacamp Certificates and Projects like **"Investigating Netflix Movies and Guest Stars in the Office"**\
-*(Check it out in the [Projects](#Projects) section!)*
+*(Check it out in the [projects](#Projects) section!)*
 
 - 👯 I’m looking to collaborate on **projects of data science**
 
