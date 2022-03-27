@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Denner Augusto</h1>
-<h3 align="center">A passionate Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>
+<h1 align="center">Hi, I'm Denner Augusto</h1>
+<h3 align="center">A Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>
 
 
-- 🔭 I’m currently working on Datacamp Certificates and Projects like **"Investigating Netflix Movies and Guest Stars in the Office"**\
+- 🔭 I’m currently working on Datacamp Certificates and Projects like **The GitHub History of the Scala Language**\
 *(Check it out in the [Projects](#-projects) section!)*
 
 - 👯 I’m looking to collaborate on **projects of data science**
 
 - 💬 Ask me about **Statistics, Computacional Modelling, Data Analysis or anything you want**\
-(I'll love to learn about it and help! =D)
+(I'll love to learn about it and help =D)
 
 - 📫 How to reach me **denner.augustobarros@gmail.com / [Linkedin](https://linkedin.com/in/denneraugusto)**
 
@@ -35,9 +35,9 @@ ___
 <a name="computer-vision"></a>
 ### 📊 Data Analysis (Importing and Cleaning Data, Manipulation and Visualization)
 | Project | Readme | Notebook |
-| --- | --- | --- |
-| Investigating Netflix Movies and Guest Stars in The Office | [:link:]() | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
-| The Android App Market on Google Play | [:link:]() | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
+| ------- | ------ | :------: |
+| Investigating Netflix Movies and Guest Stars in The Office | Comming soon... | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
+| The Android App Market on Google Play | Comming soon... | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
 
 
 ### 🧠 Machine Learning
@@ -53,9 +53,9 @@ Comming soon...
 
 ### Python
 | Project | Readme | Notebook |
-| --- | --- | --- |
-| Investigating Netflix Movies and Guest Stars in The Office | [:link:]() | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
-| The Android App Market on Google Play | [:link:]() | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
+| ------- | ------ | :------: |
+| Investigating Netflix Movies and Guest Stars in The Office | Comming soon... | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
+| The Android App Market on Google Play | Comming soon... | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
 
 ### R
 Comming soon...
