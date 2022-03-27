@@ -31,10 +31,14 @@ Comming soon...
 
 ### 🔍 Case Studies
 Comming soon...
-
+___
+<a name="computer-vision"></a>
 ### 📊 Data Analysis (Importing and Cleaning Data, Manipulation and Visualization)
-- [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) 
-<!-- / [repository](https://denner-augusto.github.io/Investigating-Netflix-Movies-and-Guest-Stars/)https://denner-augusto.github.io/Investigating-Netflix-Movies-and-Guest-Stars/ -->
+| Project | Readme | Notebook |
+| --- | --- | --- |
+| Investigating Netflix Movies and Guest Stars in The Office | [:link:]() | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
+| The Android App Market on Google Play | [:link:]() | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
+
 
 ### 🧠 Machine Learning
 Comming soon...
@@ -48,7 +52,10 @@ Comming soon...
 Comming soon...
 
 ### Python
-Comming soon...
+| Project | Readme | Notebook |
+| --- | --- | --- |
+| Investigating Netflix Movies and Guest Stars in The Office | [:link:]() | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
+| The Android App Market on Google Play | [:link:]() | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
 
 ### R
 Comming soon...
