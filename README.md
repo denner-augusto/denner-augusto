@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Denner Augusto</h1>
-<h3 align="center">A Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>
+<h1 align="center">Welcome to my portifolio! </h1>
+<!-- <h3 align="center">A Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>  -->
 
 <!-- ![cover](images/github_cover.png) -->
-
+![cover](git_intro.gif)
 - 🔭 I’m currently working on Datacamp Certificates and Projects like **The GitHub History of the Scala Language**\
 *(Check it out in the [Projects](#-projects) section!)*
 
