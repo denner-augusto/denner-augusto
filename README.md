@@ -3,7 +3,7 @@
 
 <!-- ![cover](images/github_cover.png) -->
 ![cover](git_intro.gif)
-- 🔭 I’m currently working on Datacamp Certificates and Projects like **The GitHub History of the Scala Language**\
+- 🔭 I’m currently working on Datacamp Certificates and Projects like **Statistical Thinking in Python**
 *(Check it out in the [Projects](#-projects) section!)*
 
 - 👯 I’m looking to collaborate on **projects of data science**
