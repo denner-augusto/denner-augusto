@@ -3,7 +3,9 @@
 
 <!-- ![cover](images/github_cover.png) -->
 ![cover](git_intro.gif)
-- 🔭 I’m currently working on Datacamp Certificates and Projects like **Statistical Thinking in Python**
+- 🔭 I’m currently working in a Multinational Startup called Frubana 🍑
+- 👓 Studying C Language and Java
+- 👨🏾‍💻 Constantly solving challenges at HackerRank and Exercism
 *(Check it out in the [Projects](#-projects) section!)*
 
 - 👯 I’m looking to collaborate on **projects of data science**
@@ -17,6 +19,7 @@
 - [Python](#python)
 - [R](#r)
 - [Julia](#julia)
+- [SQL](#sql)
 - [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba))
 - [Microsoft SQL Server](#sql)
 - [Git](#git)
