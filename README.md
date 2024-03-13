@@ -3,25 +3,37 @@
 
 <!-- ![cover](images/github_cover.png) -->
 ![cover](git_intro.gif)
-- 🔭 I’m currently working in a Multinational Startup called Frubana 🍑
-- 👓 Studying C Language and Java
+- Developing personal website using the best practices in the Software Development market, such as:
+  -  CI/CD pipelines
+  -  GIT workflows
+  -  Client and Server side development (DNS resolution, domain register)
+  -  Agile Methods (Scrum and Kanban) using GitHub (you can check at the Issues [clone-tabnews repo](https://github.com/denner-augusto/clone-tabnews/issues?q=is%3Aissue+)
+  -  Folder Architeture
+  -  Automated Tests and Test Driven Development - TDD (using npm)
+  -  Local database configuration with Docker containers
+  -  Docker Environment Variables (with Docker Compose)
+- 🔭 I’ve worked in 2 Multinational Startups using SQL, Python, JavaScript, TypeScript and BI Tools like Tableau 📈
+- 👓 Currently studyng Full Cycle Development using stacks like: TypeScript, JavaScrpt, Node.js, PostgresSQL
 - 👨🏾‍💻 Constantly solving challenges at HackerRank and Exercism
 *(Check it out in the [Projects](#-projects) section!)*
 
-- 👯 I’m looking to collaborate on **projects of data science**
+- 👯 I’m looking to collaborate on **projects related to Software Development and Data**
 
-- 💬 Ask me about **Statistics, Computacional Modelling, Data Analysis or anything you want**\
-(I'll love to learn about it and help =D)
+- 💬 Ask me about **Software Development, Good Practices, Data Engineerign and Data Science**\
 
 - 📫 How to reach me **denner.augustobarros@gmail.com / [Linkedin](https://linkedin.com/in/denneraugusto)**
 
 ### 🛠️ Some languages and tools I use: </b></summary>
 - [Python](#python)
+- [Node.js](#python)
+- [TypeScript](#python)
+- [Linux](#python)
+- [React](#python)
 - [R](#r)
 - [Julia](#julia)
 - [SQL](#sql)
 - [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba))
-- [Microsoft SQL Server](#sql)
+- [Microsoft SQL Server/Postgres/SQL Lite/Amazon Redshift](#sql)
 - [Git](#git)
 - [HTML](#html)
 - [CSS](#css)
@@ -29,12 +41,6 @@
 # 💻 Projects
 Here are all my data science available projects. Hope you enjoy!
 
-## Separated by subject
-### 💲 Applied Finance
-Comming soon...
-
-### 🔍 Case Studies
-Comming soon...
 ___
 <a name="computer-vision"></a>
 ### 📊 Data Analysis (Importing and Cleaning Data, Manipulation and Visualization)
@@ -43,17 +49,6 @@ ___
 | Investigating Netflix Movies and Guest Stars in The Office | Comming soon... | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
 | The Android App Market on Google Play | Comming soon... | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
 
-
-### 🧠 Machine Learning
-Comming soon...
-
-### 👨‍💻 Programming
-Comming soon...
-
-## Separated by language
-
-### Julia
-Comming soon...
 
 ### Python
 | Project | Readme | Notebook |
