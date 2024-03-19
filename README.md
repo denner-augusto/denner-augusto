@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>  -->
 
 <!-- ![cover](images/github_cover.png) -->
-![cover](git_intro.gif)
+<!--![cover](git_intro.gif) -->
 - Developing personal website using the best practices in the Software Development market, such as:
   -  CI/CD pipelines
   -  GIT workflows
