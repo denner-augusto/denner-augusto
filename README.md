@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to my portifolio! </h1>
-<!-- <h3 align="center">A Environmental Engineer and Data Science Enthusiast from <strong> Brazil - São Paulo </strong> </h3>  -->
+<!-- <h3 align="center">A Software Developer and Data Scientist from <strong> Brazil - São Paulo </strong> </h3>  -->
 
 <!-- ![cover](images/github_cover.png) -->
 <!--![cover](git_intro.gif) -->
-- Developing personal website using the best practices in the Software Development market, such as:
+- Software Developer and Data Scientist with experience mainly in Python, Typescript, Node.js and SQL. With skills in Agile and Scrum methodologies, for the development of projects ranging from Software Infrastructure Construction to relevant topics such as Database Homologation, Hosting and Domain Deployment, always adopting good practices for development such as Clean Code (SOLID base), Test Driven Development (TDD), Database configuration with Docker and Docker Compose, and versioning using Git and GitHub. When necessary, developing data analysis with BI tools (Power BI and Tableau)
   -  CI/CD pipelines
   -  GIT workflows
   -  Client and Server side development (DNS resolution, domain register)
-  -  Agile Methods (Scrum and Kanban) using GitHub (you can check at the Issues [clone-tabnews repo](https://github.com/denner-augusto/clone-tabnews/issues?q=is%3Aissue+)
+  -  Agile Methods (Scrum and Kanban) using GitHub (you can check at Issues) [clone-tabnews repo](https://github.com/denner-augusto/clone-tabnews/issues?q=is%3Aissue+)
   -  Folder Architeture
   -  Automated Tests and Test Driven Development - TDD (using npm)
   -  Local database configuration with Docker containers
