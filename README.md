@@ -1,75 +1,33 @@
-<h1 align="center">Welcome to my portifolio! </h1>
-<!-- <h3 align="center">A Software Developer and Data Scientist from <strong> Brazil - São Paulo </strong> </h3>  -->
+# Denner Augusto - Data Analyst and Automation Specialist
 
-<!-- ![cover](images/github_cover.png) -->
-<!--![cover](git_intro.gif) -->
-- Software Developer and Data Scientist with experience mainly in Python, Typescript, Node.js and SQL. With skills in Agile and Scrum methodologies, for the development of projects ranging from Software Infrastructure Construction to relevant topics such as Database Homologation, Hosting and Domain Deployment, always adopting good practices for development such as Clean Code (SOLID base), Test Driven Development (TDD), Database configuration with Docker and Docker Compose, and versioning using Git and GitHub. When necessary, developing data analysis with BI tools (Power BI and Tableau)
-  -  CI/CD pipelines
-  -  GIT workflows
-  -  Client and Server side development (DNS resolution, domain register)
-  -  Agile Methods (Scrum and Kanban) using GitHub (you can check at Issues) [clone-tabnews repo](https://github.com/denner-augusto/clone-tabnews/issues?q=is%3Aissue+)
-  -  Folder Architeture
-  -  Automated Tests and Test Driven Development - TDD (using npm)
-  -  Local database configuration with Docker containers
-  -  Docker Environment Variables (with Docker Compose)
-- 🔭 I’ve worked in 2 Multinational Startups using SQL, Python, JavaScript, TypeScript and BI Tools like Tableau 📈
-- 👓 Currently studyng Full Cycle Development using stacks like: TypeScript, JavaScrpt, Node.js, PostgresSQL
-- 👨🏾‍💻 Constantly solving challenges at HackerRank and Exercism
-*(Check it out in the [Projects](#-projects) section!)*
+Welcome to my GitHub portfolio! I'm a Data Analyst and Automation Specialist with over 4 years of experience extracting, manipulating, and analyzing data to generate insights, optimize processes, and drive strategic decision-making. I'm proficient in SQL, Python (including Pandas and actively learning PySpark), and have experience building interactive dashboards with tools like Power BI and Grafana.
 
-- 👯 I’m looking to collaborate on **projects related to Software Development and Data**
+## Skills
 
-- 💬 Ask me about **Software Development, Good Practices, Data Engineerign and Data Science**\
+*   **Data Analysis & Visualization:** Power BI, Tableau, Excel (Advanced: Pivot Tables, VLOOKUP, Macros), SQL, Python (Pandas, PySpark - actively learning), Grafana, Splunk, Data Modeling, Data Mining, ETL Processes, Statistical Analysis
+*   **Automation & Process Improvement:** Process Automation, Workflow Automation, Power Automate, Scripting (Python)
+*   **Tools & Technologies:** Jira, Confluence, Git, GitHub, Linux, No/Low-Code Platforms
+*   **Methodologies:** Agile (Scrum, Kanban)
+* **Languages:** English (Fluent - C1), Spanish (Intermediate - B2), Portuguese (Native - N1), French (Basic - A2)
 
-- 📫 How to reach me **denner.augustobarros@gmail.com / [Linkedin](https://linkedin.com/in/denneraugusto)**
+## Featured Projects
 
-### 🛠️ Some languages and tools I use: </b></summary>
-- [Python](#python)
-- [Node.js](#python)
-- [TypeScript](#python)
-- [Linux](#python)
-- [React](#python)
-- [R](#r)
-- [Julia](#julia)
-- [SQL](#sql)
-- [Visual Basic for Applications (VBA)](#visual-basic-for-applications-(vba))
-- [Microsoft SQL Server/Postgres/SQL Lite/Amazon Redshift](#sql)
-- [Git](#git)
-- [HTML](#html)
-- [CSS](#css)
+Below are some of my featured projects that showcase my data analysis and automation skills.
 
-# 💻 Projects
-Here are all my data science available projects. Hope you enjoy!
+### Investigating Netflix Movies and Guest Stars in The Office
 
-___
-<a name="computer-vision"></a>
-### 📊 Data Analysis (Importing and Cleaning Data, Manipulation and Visualization)
-| Project | Readme | Notebook |
-| ------- | ------ | :------: |
-| Investigating Netflix Movies and Guest Stars in The Office | Comming soon... | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
-| The Android App Market on Google Play | Comming soon... | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
+*   **Overview:** This project uses Python and Pandas to analyze a dataset of Netflix movies and TV shows, focusing on identifying trends in movie duration and exploring the guest stars in the TV show "The Office." The analysis includes data cleaning, transformation, and visualization using Matplotlib and Seaborn.
+*   **Technologies:** Python, Pandas, Matplotlib, Seaborn
+*   **Repository:** [https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars)
+* **Results:** Finded that, in general, the movie duration are decreasing, but there are a peak at 2000's.
 
+### The Android App Market on Google Play
 
-### Python
-| Project | Readme | Notebook |
-| ------- | ------ | :------: |
-| Investigating Netflix Movies and Guest Stars in The Office | Comming soon... | [:link:](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars/blob/main/script.ipynb) |
-| The Android App Market on Google Play | Comming soon... | [:link:](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play/blob/main/notebook.ipynb) |
+*   **Overview:** This project analyzes a dataset of Android apps from the Google Play Store, exploring trends in app categories, ratings, reviews, and pricing. The project includes data cleaning, exploratory data analysis, and visualization.
+*   **Technologies:** Python, Pandas, Matplotlib, Seaborn
+*   **Repository:** [https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play)
+*   **Results:** The majority of apps are free and de Family category is the most popular, but has less rating than other categories, which can indicates an opportunity of app development at this sector.
 
-### R
-Comming soon...
+## Get in Touch
 
-### SQL
-Comming soon...
-
-### Tableau
-Comming soon...
-
-### Power BI
-Comming soon...
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denner-augusto&show_icons=true&locale=en&layout=compact" alt="denner-augusto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denner-augusto&show_icons=true&locale=en" alt="denner-augusto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denner-augusto&" alt="denner-augusto" /></p>
+I'm always interested in collaborating on data-related projects. Feel free to reach out to me via email at denner.augustobarros@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/denneraugusto).
