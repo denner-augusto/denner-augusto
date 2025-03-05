@@ -1,6 +1,6 @@
 # Denner Augusto - Data Analyst and Automation Specialist
 
-Welcome to my GitHub portfolio! I'm a Data Analyst and Automation Specialist with over 4 years of experience extracting, manipulating, and analyzing data to generate insights, optimize processes, and drive strategic decision-making. I'm proficient in SQL, Python (including Pandas and actively learning PySpark), and have experience building interactive dashboards with tools like Power BI and Grafana.
+Welcome to my GitHub portfolio! I'm a Data Analyst and Automation Specialist with over 5 years of experience extracting, manipulating, and analyzing data to generate insights, optimize processes, and drive strategic decision-making. I'm proficient in SQL, Python (including Pandas and actively learning PySpark), and have experience building interactive dashboards with tools like Power BI and Grafana.
 
 ## Skills
 
