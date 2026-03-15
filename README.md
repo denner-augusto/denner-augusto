@@ -1,53 +1,93 @@
-# Denner Augusto de Barros - Data Engineer
+# Denner Augusto de Barros
 
-Welcome to my GitHub portfolio! I'm a Data Engineer with over 4 years of experience in building, optimizing, and automating data solutions. I specialize in **designing and developing ETL pipelines, automating data processes, and ensuring data quality and availability** using **Python (Pandas, NumPy, PySpark)**, advanced **SQL**, and cloud platforms like **Databricks**. I have a strong understanding of data consumption needs from my experience creating dashboards (Power BI) and a solid foundation in data modeling and analysis. I'm passionate about building robust, efficient data infrastructure and contributing to data-driven decision-making.
+**Data & ML Engineer | 6 Years of Experience**
 
-## Skills
+---
 
-* **Data Engineering & ETL:** Python (Pandas, NumPy, PySpark), SQL (Advanced), ETL Development, Data Pipelines, Data Warehousing Concepts (Medallion Architecture), Process Automation, Scripting, Data Modeling, Databricks, Spark
-* **Tools & Platforms:** Git, GitHub, Linux, Power BI, Azure Data Fundamentals (in progress)
-* **Programming Languages & Other:** R, Jira, Agile Methodologies (Scrum, Kanban)
-* **Languages:** English (Fluent - C1), Spanish (Intermediate - B2), Portuguese (Native), French (Basic - A2)
+Data & ML Engineer with 6 years of experience building scalable data infrastructure, end-to-end pipelines, and AI-powered solutions. I specialize in designing ETL/ELT pipelines across cloud platforms (Azure, GCP), implementing Medallion Architecture (Bronze/Silver/Gold), and deploying containerized data services. My work spans from provisioning cloud infrastructure and BI platforms to developing AI agents and computer vision models — always focused on delivering reliable, production-grade data systems.
 
-## Certification Preparation
-* AZ-900: Microsoft Azure Fundamentals - Expected completion: June 27, 2025
-* DP-900: Microsoft Azure Data Fundamentals - Expected completion: June 27, 2025
-* Databricks Certified Data Engineer Associate - *[Add Expected Completion Date if applicable]*
+---
+
+## Tech Stack
+
+### Data Engineering & Pipelines
+`Python` `PySpark` `SQL` `Databricks` `Apache Spark` `Delta Lake` `Azure Data Factory` `Azure Synapse` `BigQuery` `ETL/ELT` `Medallion Architecture` `Data Modeling`
+
+### Cloud & Infrastructure
+`Azure` `GCP` `Docker` `Containers` `Metabase` `Power BI`
+
+### AI & Machine Learning
+`Claude Code` `LLM Integration` `AI Agents` `Computer Vision` `MLOps` `HubSpot AI Automation` `Guesty AI Automation`
+
+### Tools & Methodologies
+`Git` `GitHub` `Linux` `Jira` `Scrum` `Kanban`
+
+### Languages
+`Portuguese (Native)` `English (Fluent - C1)` `Spanish (Intermediate - B2)` `French (Basic - A2)`
+
+---
+
+## What I Do
+
+- **Data Pipelines** — Design and build end-to-end pipelines across all layers (Bronze → Silver → Gold) using Databricks, PySpark, ADF, and BigQuery
+- **Cloud Infrastructure** — Provision and configure data platforms on Azure and GCP, including BigQuery datasets, Synapse workspaces, and containerized services
+- **BI & Analytics** — Set up BI infrastructure from scratch — from data modeling to deploying Metabase/Power BI, building dashboards, and training teams
+- **AI & Automation** — Develop conversational AI agents integrated with platforms like Guesty and HubSpot using LLMs; leverage Claude Code for accelerated development
+- **MLOps & Computer Vision** — Build and deploy computer vision models with production-grade ML pipelines
+- **Process Optimization** — Automate and refactor data workflows, reducing processing times and improving data quality
+
+---
 
 ## Featured Projects
 
-Below are some of my featured projects that showcase my data engineering, processing, automation, and analytical skills.
-
 ### Databricks ETL Pipeline & Analytics (Medallion Architecture)
-* **Overview:** Developed an end-to-end data pipeline on Databricks using PySpark and SQL. This project involved ingesting raw data, processing and transforming it through Bronze, Silver, and Gold layers (Medallion Architecture), and finally creating analytical tables to answer key business questions.
-* **Technologies:** Databricks, Apache Spark (PySpark), SQL, Python, Delta Lake.
-* **Repository:** *[Link to your Databricks project repository or a detailed Gist/Blog post if code isn't public]*
-* **Results:** Successfully implemented a scalable data pipeline, ensuring data quality and enabling efficient analytics.
+> End-to-end data pipeline on Databricks using PySpark and SQL. Ingests raw data through Bronze, Silver, and Gold layers with Delta Lake, producing analytical tables for business insights.
 
-### CNPEM - Automation of Environmental Data Processing
-* **Overview:** Designed and implemented a Python-based solution to automate the complex processing of environmental and georeferenced data. This involved data ingestion from multiple sources, cleaning, transformation, and loading into a structured format for research analysis.
-* **Technologies:** Python (Pandas, NumPy), Scripting, Data Manipulation.
-* **Repository:** *[Link to this project repository or a Gist if applicable]*
-* **Results:** Reduced a critical data processing routine from 5 hours to just 3 minutes, significantly improving research team efficiency.
+**Stack:** Databricks · PySpark · SQL · Delta Lake · Python
 
-### Frubana - ETL Automation & Data Pipeline for Logistics
-* **Overview:** Automated ETL processes for indicator analysis using SQL and Python, reducing analysis time by 40%. Also developed data pipelines for logistics monitoring, focusing on data accuracy, transformation, and timely availability for operational insights.
-* **Technologies:** Python, SQL, ETL, Data Pipelines.
-* **Repository:** *[If you have a public project reflecting similar skills, link it here, or describe in more detail in your main CV]*
-* **Results:** Improved efficiency in data analysis and provided robust data for logistics optimization.
+---
+
+### CNPEM — Automation of Environmental Data Processing
+> Automated the processing of environmental and georeferenced data from multiple sources. Designed a Python-based pipeline for ingestion, cleaning, transformation, and structured loading for research analysis.
+
+**Stack:** Python · Pandas · NumPy · Scripting
+**Impact:** Reduced processing time from **5 hours → 3 minutes**
+
+---
+
+### Frubana — ETL Automation & Data Pipeline for Logistics
+> Automated ETL processes for logistics indicator analysis, building data pipelines focused on accuracy, transformation, and timely availability for operational decision-making.
+
+**Stack:** Python · SQL · ETL · Data Pipelines
+**Impact:** Reduced analysis time by **40%**
+
+---
 
 ### Investigating Netflix Movies and Guest Stars in The Office
-* **Overview:** This project involved ingesting and processing a dataset of Netflix titles using Python and Pandas. Key data engineering aspects included data cleaning, schema definition, transformation for analytical purposes, and preparing data for visualization with Matplotlib and Seaborn.
-* **Technologies:** Python, Pandas, Matplotlib, Seaborn.
-* **Repository:** [https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars)
-* **Results:** Successfully processed and analyzed the dataset, identifying trends in movie durations.
+> Data ingestion and processing of Netflix titles dataset with cleaning, schema definition, transformation, and visualization.
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn
+**Repo:** [github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars](https://github.com/denner-augusto/Investigating-Netflix-Movies-and-Guest-Stars)
+
+---
 
 ### The Android App Market on Google Play
-* **Overview:** Ingested, cleaned, and transformed a dataset of Android apps from the Google Play Store using Python (Pandas). This project demonstrates skills in handling varied data types, data cleaning for consistency, and preparing data for exploratory analysis and visualization.
-* **Technologies:** Python, Pandas, Matplotlib, Seaborn.
-* **Repository:** [https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play)
-* **Results:** Processed and analyzed app market data, identifying key trends in categories and pricing.
+> Ingested, cleaned, and transformed Google Play Store app data. Demonstrates handling varied data types, consistency enforcement, and exploratory analysis preparation.
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn
+**Repo:** [github.com/denner-augusto/The-Android-App-Market-on-Google-Play](https://github.com/denner-augusto/The-Android-App-Market-on-Google-Play)
+
+---
+
+## Certifications (In Progress)
+
+- **AZ-900** — Microsoft Azure Fundamentals
+- **DP-900** — Microsoft Azure Data Fundamentals
+- **Databricks Certified Data Engineer Associate**
+
+---
 
 ## Get in Touch
 
-I'm always interested in collaborating on data engineering projects and exploring new opportunities. Feel free to reach out to me via email at denner.augustobarros@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/denneraugusto).
+[![Email](https://img.shields.io/badge/Email-denner.augustobarros%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:denner.augustobarros@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-denneraugusto-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/denneraugusto)
